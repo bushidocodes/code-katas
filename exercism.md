@@ -312,7 +312,7 @@ _Make sure the brackets and braces all match._
 - [C](https://exercism.org/tracks/c/exercises/sieve/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/sieve/solutions/bushidocodes)
 - Java: TODO
-- JavaScript: TODO
+- [JavaScript](https://exercism.org/tracks/javascript/exercises/sieve/solutions/bushidocodes)
 - TypeScript: TODO
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/sieve/solutions/bushidocodes)

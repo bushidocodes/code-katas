@@ -155,11 +155,13 @@ https://doc.rust-lang.org/std/collections/struct.BTreeMap.html
 
 # Sets
 
-|                  | JS  | C++ | Java | Rust | Bash |
-| ---------------- | --- | --- | ---- | ---- | ---- |
-| Check Membership |     |     |      |      |      |
-| Add              |     |     |      |      |      |
-| Remove           |     |     |      |      |      |
+|                  | JS            | C++ | Java | Rust | Bash |
+| ---------------- | ------------- | --- | ---- | ---- | ---- |
+| Check Membership | set.has(e)    |     |      |      |      |
+| Add              | set.add(e)    |     |      |      |      |
+| Remove           | set.delete(e) |     |      |      |      |
+| Clear            | set.clear())  |     |      |      |      |
+| Iterator         | set.values()) |     |      |      |      |
 
 ## JavaScript
 
