@@ -277,6 +277,11 @@ _Given a decimal number, convert it to the appropriate sequence of events for a 
 
 _Write a function that returns the earned points in a single toss of a Darts game._
 
+1. Solve for the hypotenuse
+2. Compare to the radius of different scores
+
+Bash uses bc because the language does not natively support floating point
+
 - [C](https://exercism.org/tracks/c/exercises/darts/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/darts/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/darts/solutions/bushidocodes)
@@ -287,6 +292,8 @@ _Write a function that returns the earned points in a single toss of a Darts gam
 
 _Randomly generate Dungeons & Dragons characters._
 
+General OOP and generate random integers
+
 - [Java](https://exercism.org/tracks/java/exercises/dnd-character/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/dnd-character/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/dnd-character/solutions/bushidocodes)
@@ -296,6 +303,13 @@ _Randomly generate Dungeons & Dragons characters._
 # Matching Brackets
 
 _Make sure the brackets and braces all match._
+
+1. Initialize a stack for opening brackets
+2. Create map of all closed brackets to their corresponding opening brackets
+3. Iterate through the characters of the input string
+   a. If an opening bracket, add to stack
+   b. If a closing bracket, pop a value from the stack and compare to the expected value in map. If empty, return false
+4. Return true if stack is empty. False otherwise
 
 - x86-64: TODO
 - [C](https://exercism.org/tracks/c/exercises/matching-brackets/solutions/bushidocodes)
@@ -309,12 +323,25 @@ _Make sure the brackets and braces all match._
 
 # Sieve
 
+1. If provided argument is less than two, return empty array
+2. Generate a sequence of numbers from 2 up to the limit (inclusive)
+3. Initialize a map and of candidate solution to isPrime flag with all flags set to true
+4. Loop over range of candidates. If prime, begin inner loop and multiple by 2..n setting the resulting numbers as non prime
+5. Return the range filtered to the values with isPrime set to true
+
+O(n^2) runtime complexity
+O(n) memory complexity
+
+TODO: Review runtime complexity and read reference below
+
+Reference: https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+
 - [C](https://exercism.org/tracks/c/exercises/sieve/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/sieve/solutions/bushidocodes)
-- Java: TODO
+- [Java](https://exercism.org/tracks/java/exercises/sieve/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/sieve/solutions/bushidocodes)
-- TypeScript: TODO
-- Rust: TODO
+- [TypeScript](https://exercism.org/tracks/typescript/exercises/sieve/solutions/bushidocodes)
+- [Rust](https://exercism.org/tracks/rust/exercises/sieve/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/sieve/solutions/bushidocodes)
 - [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=sieve)
 
