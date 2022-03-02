@@ -410,7 +410,7 @@ _Output the nursery rhyme 'This is the House that Jack Built'._
 
 - [Java](https://exercism.org/tracks/java/exercises/house/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/house/solutions/bushidocodes)
-- TypeScript: TODO
+- [TypeScript](https://exercism.org/tracks/typescript/exercises/house/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/house/solutions/bushidocodes)
 - [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=house)
 
@@ -515,7 +515,7 @@ _A data structure that uses a single, fixed-size buffer as if it were connected 
 - [C](https://exercism.org/tracks/c/exercises/circular-buffer/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/circular-buffer/solutions/bushidocodes)
 - Java: TODO
-- JavaScript: TODO
+- [JavaScript](https://exercism.org/tracks/javascript/exercises/circular-buffer/solutions/bushidocodes)
 - TypeScript: TODO
 - Rust: TODO
 - [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Circular%20Buffer)
@@ -803,7 +803,6 @@ _Determine if a triangle is equilateral, isosceles, or scalene._
 
 _Given a DNA strand, return its RNA Complement Transcription._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=rna%20transcription)
 - x64-64: TODO
 - [C](https://exercism.org/tracks/c/exercises/rna-transcription/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/rna-transcription/solutions/bushidocodes)
@@ -812,12 +811,12 @@ _Given a DNA strand, return its RNA Complement Transcription._
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/rna-transcription/solutions/bushidocodes)
 - [Rust](https://exercism.org/tracks/rust/exercises/rna-transcription/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/rna-transcription/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=rna%20transcription)
 
 # Anagram
 
 _Given a word and a list of possible anagrams, select the correct sublist._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=anagram)
 - [C](https://exercism.org/tracks/c/exercises/anagram/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/anagram/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/anagram/solutions/bushidocodes)
@@ -825,13 +824,13 @@ _Given a word and a list of possible anagrams, select the correct sublist._
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/anagram/solutions/bushidocodes)
 - [Rust](https://exercism.org/tracks/rust/exercises/anagram/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/anagram/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=anagram)
 
 # Isogram
 
 _Determine if a word or phrase is an isogram._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=isogram)
-  x86-64: TODO
+- x86-64: TODO
 - [C](https://exercism.org/tracks/c/exercises/isogram/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/isogram/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/isogram/solutions/bushidocodes)
@@ -839,12 +838,12 @@ _Determine if a word or phrase is an isogram._
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/isogram/solutions/bushidocodes)
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/isogram/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=isogram)
 
 # Phone Number
 
 _Clean up user-entered phone numbers so that they can be sent SMS messages._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=phone%20number)
 - [C](https://exercism.org/tracks/c/exercises/phone-number/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/phone-number/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/phone-number/solutions/bushidocodes)
@@ -852,106 +851,106 @@ _Clean up user-entered phone numbers so that they can be sent SMS messages._
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/phone-number/solutions/bushidocodes)
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/phone-number/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=phone%20number)
 
 # Protein Translation
 
 _Translate RNA sequences into proteins._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=protein%20translation)
 - [C++](https://exercism.org/tracks/cpp/exercises/protein-translation/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/protein-translation/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/protein-translation/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/protein-translation/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/protein-translation/solutions/bushidocodes)
 - Rust: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=protein%20translation)
 
 # Word Count
 
 _Given a phrase, count the occurrences of each word in that phrase._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=word%20count)
 - [C](https://exercism.org/tracks/c/exercises/word-count/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/word-count/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/word-count/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/word-count/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/word-count/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/word-count/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=word%20count)
 
 # Diamond
 
 _Given a letter, print a diamond starting with 'A' with the supplied letter at the widest point._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=diamond)
 - [C](https://exercism.org/tracks/c/exercises/diamond/solutions/bushidocodes)
 - Java: TODO
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/diamond/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/diamond/solutions/bushidocodes)
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/diamond/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=diamond)
 
 # Sublist
 
 _Write a function to determine if a list is a sublist of another list._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=sublist)
 - [C](https://exercism.org/tracks/c/exercises/sublist/solutions/bushidocodes)
 - Java: TODO
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/sublist/solutions/bushidocodes)
 - TypeScript: TODO
 - [Rust](https://exercism.org/tracks/rust/exercises/sublist/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/sublist/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=sublist)
 
 # Beer Song
 
 _Recite the lyrics to that beloved classic, that field-trip favorite: 99 Bottles of Beer on the Wall._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=beer)
 - [C](https://exercism.org/tracks/c/exercises/beer-song/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/beer-song/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/beer-song/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/beer-song/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/beer-song/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/beer-song/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=beer)
 
 # Twelve Days
 
 _Output the lyrics to "The Twelve Days of Christmas._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=twelve%20days)
 - [Java](https://exercism.org/tracks/java/exercises/twelve-days/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/twelve-days/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/twelve-days/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/twelve-days/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=twelve%20days)
 
 # Pig Latin
 
 _Implement a program that translates from English to Pig Latin._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=pig%20latin)
 - [C](https://exercism.org/tracks/c/exercises/pig-latin/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/pig-latin/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/pig-latin/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/pig-latin/solutions/bushidocodes)
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/pig-latin/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=pig%20latin)
 
 # Largest Series Product
 
 _Given a string of digits, calculate the largest product for a contiguous substring of digits of length n._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=largest%20series%20product)
 - [C](https://exercism.org/tracks/c/exercises/largest-series-product/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/largest-series-product/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/largest-series-product/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/largest-series-product/solutions/bushidocodes)
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/largest-series-product/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=largest%20series%20product)
 
 # Series
 
 _Given a string of digits, output all the contiguous substrings of length `n` in that string._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=series)
 - [C](https://exercism.org/tracks/c/exercises/series/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/series/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/series/solutions/bushidocodes)
@@ -959,13 +958,14 @@ _Given a string of digits, output all the contiguous substrings of length `n` in
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/series/solutions/bushidocodes)
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/series/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=series)
 
 # Collatz Conjecture
 
 _Calculate the number of steps to reach 1 using the Collatz conjecture_
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=collatz)
-  x86-64: TODO
+x86-64: TODO
+
 - [C](https://exercism.org/tracks/c/exercises/collatz-conjecture/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/collatz-conjecture/solutions/bushidocodes)
 - Java: TODO
@@ -973,13 +973,14 @@ _Calculate the number of steps to reach 1 using the Collatz conjecture_
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/collatz-conjecture/solutions/bushidocodes)
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/collatz-conjecture/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=collatz)
 
 # Space Age
 
 _Given an age in seconds, calculate how old someone is in terms of a given planet's solar years._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=space%20age)
-  x86-64: TODO
+x86-64: TODO
+
 - [C](https://exercism.org/tracks/c/exercises/space-age/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/space-age/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/space-age/solutions/bushidocodes)
@@ -987,12 +988,12 @@ _Given an age in seconds, calculate how old someone is in terms of a given plane
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/space-age/solutions/bushidocodes)
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/space-age/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=space%20age)
 
 # Say
 
 _Given a number from 0 to 999,999,999,999, spell out that number in English._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=say)
 - [C](https://exercism.org/tracks/c/exercises/say/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/say/solutions/bushidocodes)
 - Java: TODO
@@ -1000,13 +1001,14 @@ _Given a number from 0 to 999,999,999,999, spell out that number in English._
 - TypeScript: TODO
 - [Rust](https://exercism.org/tracks/rust/exercises/say/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/say/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=say)
 
 # Allergies
 
 _Given a person's allergy score, determine whether or not they're allergic to a given item, and their full list of allergies._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=allergies)
-  x86-64: TODO
+x86-64: TODO
+
 - [C](https://exercism.org/tracks/c/exercises/allergies/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/allergies/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/allergies/solutions/bushidocodes)
@@ -1014,12 +1016,12 @@ _Given a person's allergy score, determine whether or not they're allergic to a 
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/allergies/solutions/bushidocodes)
 - [Rust](https://exercism.org/tracks/rust/exercises/allergies/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/allergies/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=allergies)
 
 # Sum of Multiples
 
 _Given a number, find the sum of all the multiples of particular numbers up to but not including that number._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=sum%20of%20multiples)
 - [C](https://exercism.org/tracks/c/exercises/sum-of-multiples/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/sum-of-multiples/solutions/bushidocodes)
 - Java: TODO
@@ -1027,169 +1029,170 @@ _Given a number, find the sum of all the multiples of particular numbers up to b
 - TypeScript: TODO
 - Rust: TODO
 - [Bash](https://exercism.org/tracks/bash/exercises/sum-of-multiples/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=sum%20of%20multiples)
 
 # Roman Numerals
 
 _Write a function to convert from normal numbers to Roman Numerals._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=roman%20numerals)
 - [C](https://exercism.org/tracks/c/exercises/roman-numerals/solutions/bushidocodes)
 - [C++](https://exercism.org/tracks/cpp/exercises/roman-numerals/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/roman-numerals/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/roman-numerals/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/roman-numerals/solutions/bushidocodes)
-- Rust: TODO
+- [Rust](https://exercism.org/tracks/rust/exercises/roman-numerals/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/roman-numerals/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=roman%20numerals)
 
 # Matrix
 
 _Given a string representing a matrix of numbers, return the rows and columns of that matrix._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Matrix)
 - [Java](https://exercism.org/tracks/java/exercises/matrix/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/matrix/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/matrix/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Matrix)
 
 # Flatten Array
 
 _Take a nested list and return a single list with all values except nil/null._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Flatten%20Array)
 - [Java](https://exercism.org/tracks/java/exercises/flatten-array/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/flatten-array/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/flatten-array/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Flatten%20Array)
 
 # Robot Name
 
 _Manage robot factory settings._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Robot%20Name)
 - [C++](https://exercism.org/tracks/cpp/exercises/robot-name/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/robot-name/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/robot-name/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/robot-name/solutions/bushidocodes)
 - Rust: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Robot%20Name)
 
 # Micro Blog
 
 _Given an input string, truncate it to 5 characters._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Micro%20Blog)
 - [Java](https://exercism.org/tracks/java/exercises/micro-blog/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Micro%20Blog)
 
 # Proverb
 
 _For want of a horseshoe nail, a kingdom was lost, or so the saying goes. Output the full text of this proverbial rhyme._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Proverb)
 - [Java](https://exercism.org/tracks/java/exercises/proverb/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/proverb/solutions/bushidocodes)
 - [Rust](https://exercism.org/tracks/rust/exercises/proverb/solutions/bushidocodes)
 - [Bash](https://exercism.org/tracks/bash/exercises/proverb/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Proverb)
 
 # Food Chain
 
 _Generate the lyrics of the song "I Know an Old Lady Who Swallowed a Fly."_
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Food%20Chain)
 - [C++](https://exercism.org/tracks/cpp/exercises/food-chain/solutions/bushidocodes)
 - [Java](https://exercism.org/tracks/java/exercises/food-chain/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/food-chain/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/food-chain/solutions/bushidocodes)
 - Bash: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Food%20Chain)
 
 # ISBN Verifier
 
 _Check if a given string is a valid ISBN-10 number._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=ISBN%20Verifier)
 - [Java](https://exercism.org/tracks/java/exercises/isbn-verifier/solutions/bushidocodes)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/isbn-verifier/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/isbn-verifier/solutions/bushidocodes)
 - [Rust](https://exercism.org/tracks/rust/exercises/isbn-verifier/solutions/bushidocodes)
 - Bash: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=ISBN%20Verifier)
 
 # Bank Account
 
 _Simulate a bank account supporting opening/closing, withdraws, and deposits of money. Watch out for concurrent transactions!_
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Bank%20Account)
 - Java: TODO
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/bank-account/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Bank%20Account)
 
 # Book Store
 
 _To try and encourage more sales of different books from a popular 5 book series, a bookshop has decided to offer discounts of multiple-book purchases._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Book%20Store)
 - Java: TODO
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/book-store/solutions/bushidocodes)
 - Rust: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Book%20Store)
 
 # Simple Cipher
 
 _Implement a simple shift cipher like Caesar and a more secure substitution cipher_
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Simple%20Cipher)
 - Java: TODO
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/simple-cipher/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/simple-cipher/solutions/bushidocodes)
 - Rust: TODO
 - Bash: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Simple%20Cipher)
 
 # High Scores
 
 _Manage a player's High Score list._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=High%20Scores)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/high-scores/solutions/bushidocodes)
 - [Rust](https://exercism.org/tracks/rust/exercises/high-scores/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=High%20Scores)
 
 # Transpose
 
 _Take input text and output it transposed._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Transpose)
 - Java: TODO
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/transpose/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/transpose/solutions/bushidocodes)
 - Bash: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Transpose)
 
 # Rectangles
 
 _Count the rectangles in an ASCII diagram._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Rectangles)
 - Java: TODO
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/rectangles/solutions/bushidocodes)
 - TypeScript: TODO
 - Bash: TODO
 - Rust: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Rectangles)
 
 # Promises
 
 _Practice promises by implementing some common promise functions._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Promises)
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/promises/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Promises)
 
 # Diffie Hellman
 
 _Diffie-Hellman key exchange._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Diffie%20Hellman)
 - Java: TODO
 - [JavaScript](https://exercism.org/tracks/javascript/exercises/diffie-hellman/solutions/bushidocodes)
 - [TypeScript](https://exercism.org/tracks/typescript/exercises/diffie-hellman/solutions/bushidocodes)
 - Rust: TODO
 - Bash: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Diffie%20Hellman)
 
 # Trinary
 
 _Convert a trinary number, represented as a string (e.g. '102012'), to its decimal equivalent using first principles._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Trinary)
 - [C++](https://exercism.org/tracks/cpp/exercises/trinary/solutions/bushidocodes)
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Trinary)
 
 # Hexadecimal
 
@@ -1197,7 +1200,7 @@ _Convert a hexadecimal number, represented as a string (e.g. "10af8c"), to its d
 
 Search:
 
-- [C++: TODO
+- C++: TODO
 
 # Kindergarten Garden
 
@@ -1236,7 +1239,7 @@ _Given two buckets of different size, demonstrate how to measure an exact number
 
 Search:
 
-- [C: TODO
+- C: TODO
 - Java: TODO
 - JavaScript: TODO
 - TypeScript: TODO
@@ -1250,8 +1253,8 @@ _Implement variable length quantity encoding and decoding._
 Search:
 
 - Java: TODO
-- JavaScript: TODO
-- TypeScript: TODO
+- [JavaScript](https://exercism.org/tracks/javascript/exercises/variable-length-quantity/solutions/bushidocodes)
+- [TypeScript](https://exercism.org/tracks/typescript/exercises/variable-length-quantity/solutions/bushidocodes)
 - Rust: TODO
 - Bash: TODO
 
@@ -1281,11 +1284,11 @@ Search:
 
 _Given a knapsack that can only carry a certain weight, determine which items to put in the knapsack in order to maximize their combined value._
 
-- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Knapsack)
 - Java: TODO
 - JavaScript: TODO
 - TypeScript: TODO
 - Bash: TODO
+- [Search Query](https://exercism.org/profiles/bushidocodes/solutions?criteria=Knapsack)
 
 # Affine Cipher
 
@@ -1293,7 +1296,7 @@ _Create an implementation of the affine cipher, an ancient encryption system cre
 
 Search:
 
-- Java: TODO
+- Java: https://exercism.org/tracks/java/exercises/affine-cipher/solutions/bushidocodes
 - JavaScript: TODO
 - Rust: TODO
 - Bash: TODO
